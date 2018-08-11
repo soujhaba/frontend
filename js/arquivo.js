@@ -6,7 +6,7 @@ function enviar() {
 	alert("obrigado " + nome.value + ", mas está em desenvolvimento");
 	}else{
 	//mensagem genérica
-	alert("obrigado " + nome.value + ", mas você tem que preencher o formulário");
+	alert("desculpe " + nome.value + ", mas você tem que preencher o formulário");
 	}
 }
 
