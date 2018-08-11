@@ -54,3 +54,10 @@ html, body {
   text-align: center;
 }
 
+.img-carousel{
+  position: relative;
+  padding: 100px 90px 100px;
+  width: 100%;
+
+}
+
