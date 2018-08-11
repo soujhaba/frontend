@@ -1,6 +1,6 @@
 .img-round {
-  border-radius:10%;
-  width: 20%;
+  border-radius:50%;
+  width: 10%;
 }
 header {
   position: relative;
@@ -13,7 +13,7 @@ header {
   background-position: center;
   text-align: center;
   color: white;
-  background-image: url("../img/perfil.jpg");
+  background-image: url("../img/foto_fundo.jpg");
 }
 header .conteudo {
   position: relative;
